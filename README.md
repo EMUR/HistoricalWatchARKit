@@ -8,6 +8,6 @@ The proejct displays the 3D pocket that I've design
 
 [The original pockect watch can be found on [Al-masmak Digital Museum](https://al-masmak.com)]
 
-### A sample picture of how the watch 
+### A sample picture of how the watch looks like with ARKit
 
 ![alt text](https://i.imgur.com/0vY4BuTl.jpg)
