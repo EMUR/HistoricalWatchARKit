@@ -2,7 +2,7 @@
 
 ### A small project that tests ARKit on iOS 11.
 
-The proejct displays the 3D pocket watch that I've design
+The proejct displays the 3D pocket watch that I've designed
 
 ![alt text](http://i.imgur.com/Z7PKu2ul.png).
 
